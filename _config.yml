@@ -5,10 +5,10 @@ paginate: 8
 safe:  false
 
 #Site config
-title: Ji Men Bian
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Ji Men Bian
-url: jimenbian.github.io
+title: 蓟门边 
+description: Just another Jekyll theme design and code by Garvin Li.
+keywords: Jekyll Theme
+url: http://0.0.0.0:4000
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -18,46 +18,48 @@ nav:
     url: /index.html
   - text: 分类目录 
     url: /categories.html
-  - text: 文章归档
+  - text: 项目归档
     url: /archives.html
   - text: 团队介绍
     url: /contact.html
-  - text: 相关链接
+  - text: 团队链接
     url: /links.html
 
 #Author config
 author:
     name: Garvin Li
     email: zixiyaoren@gmail.com
-    imageLink: http://tp2.sinaimg.cn/1832671293/180/40020872447/1
-    simpleIntro: 北京邮电大学在读硕士！一个热爱coding的geek！蓟门边studio加油。
+    imageLink: /images/studio.jpg
+    simpleIntro: 蓟门边IT创意工作室是由一个热爱coding的北邮在读硕士创办。有梦在，就前行！
     detailIntro:
-      <p>蓟门边studio CTO-Garvin Li</p>
-      <p> 非典型90后，北京邮电大学在读硕士，通信与信息工程专业。擅长技术：android，ios，j2ee，c#</p>
-      <p>蓟门边studio 美术指导-shaojie WANG</p>
-      <p>蓟门边studio 美术指导-shaojie WANG</p>
+      <p> <img src='/images/Garvin.JPG' width=400 height=358 align=left/>Garvin Li,非典型90后，北京邮电大学硕士在读，主要从事android，c#,J2EE等的程序设计与实现，拥有多款上线应用，CSDN博客cocos2d专栏达人。喜欢一个人默默的coding，喜欢创造并改变世界的感觉！</p>
+      <p> <img src='/images/wsj.png' width=400 height=358 align=left/>shaojie WANG,毕业于北京邮电大学。专业美工，小说作家。擅长ps等美工技术。长期从事中美的app美工设计。 </p>
+
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/
+    url: http://weibo.com
   - class: icon-renren
     url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/tiancailibo
+    url: http://github.com/jimenbian
   - class: icon-twitter
-    url: http://twitter.com/
+    url: http://twitter.com
   - class: icon-google-plus
     url: http://google.com
 
 #Links
 customLinks:
   - item:
-    - text: CIO BLOG
+    - text: CTO BLOG
       url: http://blog.csdn.net/buptgshengod
-   
-    message: BLOG
+    - text: MY Github
+      url: https://github.com/jimenbian
+    - text: Leave Message
+      url: /contact.html
+    message: Friends
   - item:
     - text: Font Awesome
       url: http://fortawesome.github.io/Font-Awesome/
@@ -79,4 +81,4 @@ disqus:
 
 duoshuo:
   config: true
-  id: zhanxin
+  id: jimenbian

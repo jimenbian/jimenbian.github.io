@@ -1,0 +1,11 @@
+---
+layout: post
+title:  【蓟门边studio】镖镖必达
+date:   2013-12-8 12:55:11
+category: "android"
+---
+####镖镖必达是一款基于android系统下开发的单指RPG游戏。通过点击屏幕使主人公发出飞镖，击中盗贼获得分数。更可以通过主菜单的人人图标将获得分数分享给圈中好友。
+#### coding:Garvin Li  
+####美术指导：shaojie WANG
+####（镖镖必达在人人开发大赛中暂列北京赛区第二十三名）[点击下载](/download/Biaobiao.apk)
+ <img src='/images/biaobiao2.png' width=150 height=84 align=left/> <img src='/images/biaobiao1.png' width=150 height=84 align=center/> <img src='/images/biaobiao.png' width=150 height=84 align=right/>
