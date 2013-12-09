@@ -15,15 +15,15 @@ favicon: /images/studio.jpg
 #Nav config
 nav:
   - text: 首页
-    url: http://jimenbian.github.io/index.html
+    url: /index.html
   - text: 分类目录 
-    url: http://jimenbian.github.io/categories.html
+    url: /categories.html
   - text: 项目归档
-    url: http://jimenbian.github.io/archives.html
+    url: /archives.html
   - text: 团队介绍
-    url: http://jimenbian.github.io/contact.html
+    url: /contact.html
   - text: 团队链接
-    url: http://jimenbian.github.io/links.html
+    url: /links.html
 
 #Author config
 author:
