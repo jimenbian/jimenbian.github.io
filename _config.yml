@@ -8,22 +8,22 @@ safe:  false
 title: 蓟门边 
 description: Just another Jekyll theme design and code by Garvin Li.
 keywords: Jekyll Theme
-url: http://0.0.0.0:4000
+url: http://jimenbian.github.io
 feed: /atom.xml
 favicon: /images/studio.jpg
 
 #Nav config
 nav:
   - text: 首页
-    url: /index.html
+    url: http://jimenbian.github.io/index.html
   - text: 分类目录 
-    url: /categories.html
+    url: http://jimenbian.github.io/categories.html
   - text: 项目归档
-    url: /archives.html
+    url: http://jimenbian.github.io/archives.html
   - text: 团队介绍
-    url: /contact.html
+    url: http://jimenbian.github.io/contact.html
   - text: 团队链接
-    url: /links.html
+    url: http://jimenbian.github.io/links.html
 
 #Author config
 author:
