@@ -5,10 +5,17 @@ paginate: 8
 safe:  false
 
 #Site config
+<<<<<<< HEAD
 title: 蓟门边 
 description: Just another Jekyll theme design and code by Garvin Li.
 keywords: Jekyll Theme
 url: http://0.0.0.0:4000
+=======
+title: Ji Men Bian
+description: Just another Jekyll theme design and code by zhanxin.info.
+keywords: Ji Men Bian
+url: http://pizn.github.io/kunka
+>>>>>>> b8b8ce7f3e4fc5a6277e1ac7046cb4584c5de1c0
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -81,4 +88,8 @@ disqus:
 
 duoshuo:
   config: true
+<<<<<<< HEAD
   id: jimenbian
+=======
+  id: zhanxin
+>>>>>>> b8b8ce7f3e4fc5a6277e1ac7046cb4584c5de1c0
