@@ -8,4 +8,4 @@ category: "android"
 ####基本功能：1.图中所示四个红点取词框区域 2.可用手势拖拉取词框大小 3.取到内容将添加到剪贴板
 ####coding:Garvin Li
 ####技术转让可以发邮件给工作室邮箱，价格优惠！  
-####<img src='/images/quci2.png' width=200 height=200 align=left/><img src='/images/quci1.png' width=160 height=200 align=right/>
+####<img src='/images/quci2.png' width=500 height=500 align=left/><img src='/images/quci1.png' width=330 height=500 align=right/>
