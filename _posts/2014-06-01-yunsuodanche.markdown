@@ -8,4 +8,4 @@ category: "android"
 #### coding:Garvin Li  
 ####美术指导：shaojie WANG
 ####[点击下载](/download/BStation.apk)
- <img src='/images/bike1.png' width=180 height=300 align=left/ > <img src='/images/bike2.png' width=180 height=300 align=center/> <img src='/images/bike3' width=180 height=300  align=right/> 
+ <img src='/images/bike1.png' width=180 height=300 align=left/ > <img src='/images/bike2.png' width=180 height=300 align=center/> <img src='/images/bike3.png' width=180 height=300  align=right/> 
