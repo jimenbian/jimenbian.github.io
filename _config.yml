@@ -10,7 +10,7 @@ description: Just another Jekyll theme design and code by Garvin Li.
 keywords: Jekyll Theme
 url: http://jimenbian.github.io
 feed: /atom.xml
-favicon: /images/studio.jpg
+favicon: http://img.tongji.linezing.com/3488260/tongji.gif
 
 #Nav config
 nav:
