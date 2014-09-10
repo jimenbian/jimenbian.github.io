@@ -1,0 +1,13 @@
+---
+layout: post
+title:  【蓟门边studio】X-Brain
+date:   2014-09-10 12:55:11
+category: "python"
+---
+####X-Brain is the open source project, based on machine learning algorithm.  
+####X-Brain是我的开源项目，用python实现了一些机器学习算法。灵感来源是参加阿里巴巴大数据竞赛，看到了x-lab，所以自己也尝试模仿实现一款机器学习算法的软件。
+#### coding:Garvin Li  
+####美术指导：shaojie WANG
+####[项目地址](https://github.com/X-Brain)
+<img src='/images/brain.png' width=300 height=300 align=center/> 
+
