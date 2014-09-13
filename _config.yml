@@ -28,11 +28,11 @@ nav:
 #Author config
 author:
     name: Garvin Li
-    email: zixiyaoren@gmail.com
+    email: jimenbian@gmail.com
     imageLink: /images/studio.jpg
-    simpleIntro: 蓟门边IT创意工作室是由一个热爱coding的北邮在读硕士创办。有梦在，就前行！
+    simpleIntro: This is Garvin.Coding for dream, fun, freedom！
     detailIntro:
-      <p> <img src='/images/Garvin.JPG' width=400 height=358 align=left/>Garvin Li,非典型90后，北京邮电大学硕士在读，主要从事android，c#,J2EE等的程序设计与实现，拥有多款上线应用，CSDN博客cocos2d专栏达人。喜欢一个人默默的coding，喜欢创造并改变世界的感觉！</p>
+      <p> <img src='/images/Garvin.JPG' width=400 height=358 align=left/>Garvin Li,非典型90后，北京邮电大学硕士在读，伪Geek真愤青！</p>
       <p> <img src='/images/wsj.png' width=400 height=358 align=left/>shaojie WANG,毕业于北京邮电大学。专业美工，小说作家。擅长ps等美工技术。长期从事中美的app美工设计。 </p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
